@@ -1,0 +1,2 @@
+int i=43;
+printf("%d\n",printf("%d\n",printf("%d\n",i)))
